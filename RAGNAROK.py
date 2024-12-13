@@ -349,7 +349,7 @@ def welcome_plan(message):
 /logs : All Users Logs.
 /broadcast : Broadcast a Message.
 /clearlogs : Clear The Logs File.
-By https://t.me/+HlH7BV2M_QYxYjBl
+By https://t.me/+HlH7BQYxYjBl
 '''
     bot.reply_to(message, response)
 
