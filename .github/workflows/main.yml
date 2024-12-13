@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 5 minutes for high frequency
+    - cron: '*/20 * * * *'  # Runs every 5 minutes for high frequency
 
 jobs:
   # Matrix strategy for extreme attacks
